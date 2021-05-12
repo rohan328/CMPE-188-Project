@@ -1,0 +1,9 @@
+
+__pycache__/DNNModel.cpython-38.pyc
+.ipynb_checkpoints/train-checkpoint.ipynb
+__pycache__/dataUtils.cpython-38.pyc
+DNNMODEL/variables/variables.index
+DNNMODEL/variables/variables.data-00000-of-00001
+DNNMODEL/saved_model.pb
+params.pkl
+.ipynb_checkpoints/test-checkpoint.ipynb
